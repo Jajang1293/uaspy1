@@ -6,6 +6,7 @@
 * Klik pada pilihan Fork
 
 ![GitHub Logo] (Fork.PNG)
+![GitHub Logo](Fork.PNG)
 
 ## Melakukan Clone ke Local Repository
 
