@@ -5,14 +5,13 @@
 * Masukkan alamat repository yang akan di fork pada Web Browser https://github.com/abuazzam/uaspy
 * Klik pada pilihan Fork
 
-![GitHub Logo] (Fork.PNG)
 ![GitHub Logo](Fork.PNG)
 
 ## Melakukan Clone ke Local Repository
 
 * Klik pada pilihan Clone
 
-![GitHub Logo] (clonelocal.PNG)
+![GitHub Logo](clonelocal.PNG)
 
 ## Melakukan Konfigurasi Virtual Environment
 
@@ -27,10 +26,10 @@
 * Klik pada File
 * Pilih Setting
 * Klik pada bagian Interpreter maka muncul package yang diperlukan
-![GitHub Logo] (packagelist.PNG)
+![GitHub Logo](packagelist.PNG)
 * Klik tanda +
 * Input package yang akan di install, lalu klik install pada package yang dipilih
-![GitHub Logo] (installpackage.PNG)
+![GitHub Logo](installpackage.PNG)
 
 
 
